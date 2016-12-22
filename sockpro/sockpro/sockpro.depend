@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1403169099 source:/home/mind/sock/sockpro/main.cpp
+	<stdlib.h>
+	<sys/types.h>
+	<stdio.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<sys/socket.h>
+	<string.h>
+	<pthread.h>
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+	<list>
+	<algorithm>
+	<vector>
+	<map>
+
+1400387752 /home/mind/sock/sockpro/books.h
+	<iostream>
+	<string>
+	<list>
+	<algorithm>
+	<fstream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+

@@ -1,0 +1,20 @@
+get FILE
+mget [File]* 
+add FILE
+view FILE
+del FILE
+list
+rename old new
+quit
+--- working on it... ---
+madd [File]*
+
+mdel [File]*
+------------------------
+super only->
+uadd username password permission
+grant username permission
+fgrant filename permission
+revoke username
+--------------
+help(itself)
